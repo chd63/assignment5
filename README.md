@@ -31,3 +31,6 @@ To contribute to the project please make a email request at exampleemail@gmail.c
 ## Acknowledgments
 
 I would like to thank my family
+
+## Myles Hurley
+I added this section to the file
