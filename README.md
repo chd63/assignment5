@@ -34,3 +34,6 @@ I would like to thank my family
 
 ## Myles Hurley
 I added this section to the file
+
+## addition function
+function to add two numbers
